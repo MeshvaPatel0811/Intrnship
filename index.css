@@ -1,0 +1,17 @@
+.one{
+    height: 10em;
+    width: 30em;
+    text-align: center;
+    background-color: aqua;
+    margin: auto;
+    font-size: 20px;
+}
+
+.two{
+    margin: auto;
+    height: 6em;
+    width: 20em;
+    text-align: center;
+    background-color: aquamarine;
+    font-size: 1em;
+}

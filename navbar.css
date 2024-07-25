@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    background-color: black;
+    color: white;
+    padding-bottom: 15px;
+    border: 2px solid yellow;
+}
+ul{
+    text-decoration: none;
+    display: inline;
+    
+}
+li{
+    display: inline;
+    padding-right: 180px;
+}
+
+ul:first-child{
+    color: yellow;
+}
